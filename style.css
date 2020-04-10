@@ -1,0 +1,38 @@
+.header{  
+    display: flex;
+background-color: aquamarine;
+  text-align: center;
+  padding-left: 15cm;
+}
+
+.fact{
+    display:flex;
+    padding-left: 5cm;
+}
+
+.info{
+    display:flex;
+    margin-right: 10cm;
+}
+
+
+
+.Quote{
+    display:flex;
+color:darkblue;
+padding-left: 7cm;
+font-size: x-large;
+
+}
+
+.Location{
+    display:flex;
+    color: red;
+    
+}
+
+
+    
+   
+
+
